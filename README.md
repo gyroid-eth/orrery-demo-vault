@@ -23,7 +23,7 @@ Biomatter Lab（2026-10-01）のデモ用の Obsidian vault です。ORRERY（�
 ## 中身
 
 - `00_Inbox/はじめに.md` — デモの流れ（ORRERY の install → しりとり → pdf-mistral → digest-paper → `/log` → Daily Note と Kanban）
-- `01_Planning/タスク.md` — Kanban のタスク板。チェックすると完了時刻が付き、完了の列へ移る
+- `01_Planning/タスク.md` — Kanban のタスク板。チェックすると完了時刻が付き、完了の列へ移る。カードはコマンドパレットの「タスク追加」（`30_Templates/Scripts/addTaskQA.js`）か、agent の `/addtodo`・`/adddone` でも足せる
 - `02_DailyNotes/` — 日々の記録。テンプレートは `30_Templates/Daily Note.md`（未完了のタスク／今日完了したタスク／今日の作業ログ／今日作った・編集したノートが自動で並ぶ）
 - `05_Agents/` — AI と作業したときのログ（`LOG_YYYY-MM-DDTHHmm タイトル.md`）。`/log` で作る
 - `10_Reference/Papers/` — 試しに使える論文（CC BY 4.0）と、その出典

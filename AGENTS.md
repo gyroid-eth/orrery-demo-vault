@@ -13,6 +13,7 @@ Claude Code は `CLAUDE.md`、Codex はこのファイルを読む。中身は�
 - テンプレートは `30_Templates/` に置く
 - 日々の記録は `02_DailyNotes/YYYY-MM-DD.md`
 - タスクは `01_Planning/タスク.md`（Kanban）
+  - 「タスクに追加して」と頼まれたら `.claude/skills/addtodo/SKILL.md`、「完了にして」「終わった」と言われたら `.claude/skills/adddone/SKILL.md` を読み、その手順どおりにする
 - 論文の Markdown と図は `20_MDPapers/`（pdf-mistral の出力）。digest-paper の読書ノートは `10_Reference/Notes/` に保存する
 - API キーやパスワードをノートやチャットに書かない
 - ファイルを消す・フォルダの外を触る前に、必ず私に確認する

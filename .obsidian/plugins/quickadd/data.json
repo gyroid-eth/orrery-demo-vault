@@ -1,5 +1,26 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "addtask-qa-e5da423c",
+      "name": "タスク追加",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "タスク追加",
+        "id": "8797820759d347e7b1a805e23f46d362",
+        "commands": [
+          {
+            "id": "00ed3c78e38743c1ace27d455df5916f",
+            "name": "addTaskQA",
+            "type": "UserScript",
+            "path": "30_Templates/Scripts/addTaskQA.js",
+            "settings": {}
+          }
+        ]
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",

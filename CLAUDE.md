@@ -13,6 +13,7 @@ Codex を使う人は `AGENTS.md`（同じ内容）を参照。
 - テンプレートは `30_Templates/` に置く
 - 日々の記録は `02_DailyNotes/YYYY-MM-DD.md`
 - タスクは `01_Planning/タスク.md`（Kanban）
+  - タスクを足すときは `/addtodo`、終えたときは `/adddone`（手順は `.claude/skills/addtodo/SKILL.md`・`.claude/skills/adddone/SKILL.md`）
 - 論文の Markdown と図は `20_MDPapers/`（pdf-mistral の出力）。digest-paper の読書ノートは `10_Reference/Notes/` に保存する
 - API キーやパスワードをノートやチャットに書かない
 - ファイルを消す・フォルダの外を触る前に、必ず私に確認する
