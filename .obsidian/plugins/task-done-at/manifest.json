@@ -1,0 +1,9 @@
+{
+  "id": "task-done-at",
+  "name": "Task Done At",
+  "version": "1.5.0",
+  "minAppVersion": "1.0.0",
+  "description": "Auto-add done-at timestamp when completing tasks, auto-remove when unchecking, and auto-move completed Kanban cards to the Complete lane",
+  "author": "Claude Code",
+  "isDesktopOnly": false
+}

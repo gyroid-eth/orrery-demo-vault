@@ -1,0 +1,7 @@
+{
+  "markdownOutputFolder": "20_MDPapers",
+  "imagesOutputFolder": "20_MDPapers",
+  "imagesFolderName": "pdf-mistral-images",
+  "mistralApiKey": "",
+  "imageRenderDPI": 300
+}

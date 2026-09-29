@@ -1,0 +1,54 @@
+---
+tags:
+  - daily_note
+date: <% tp.file.title %>
+---
+
+###### 🎯 今日のハイライト
+
+- 
+
+###### ✔ タスク
+```dataview
+TASK
+FROM "01_Planning"
+WHERE !completed AND !contains(meta(section).subpath, "アイデア")
+SORT due ASC
+```
+
+###### ✔ 今日完了した
+```dataview
+TASK
+FROM "01_Planning"
+WHERE completed AND (due = this.file.day OR dateformat(done-at, "yyyy-MM-dd") = dateformat(this.file.day, "yyyy-MM-dd"))
+SORT done-at DESC
+```
+
+###### 🔗 今日の作業ログ
+```dataview
+LIST
+FROM "05_Agents"
+WHERE startswith(file.name, "LOG_" + dateformat(this.file.day, "yyyy-MM-dd"))
+SORT file.name DESC
+```
+
+###### 📝 今日作ったノート
+```dataview
+LIST
+FROM ""
+WHERE file.cday = date(this.date) AND file.name != this.file.name
+SORT file.ctime DESC
+LIMIT 50
+```
+
+###### 🔄 今日編集したノート
+```dataview
+LIST
+FROM ""
+WHERE file.mday = date(this.date) AND file.cday != date(this.date) AND file.name != this.file.name
+SORT file.mtime DESC
+LIMIT 50
+```
+
+##### 🔗 前後
+← [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] →
