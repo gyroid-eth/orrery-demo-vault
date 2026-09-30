@@ -31,3 +31,4 @@ Task Done At は Biomatter Lab 自作（起動時キャッシュ・ローカル�
 同梱している論文:
 
 - Onimaru et al. 2016, *Nature Communications* 7, 11582（https://doi.org/10.1038/ncomms11582）— CC BY 4.0。詳しくは `10_Reference/Papers/論文の出典とライセンス.md`
+- Guo et al. 2024, *Nature Communications* 15, 1694（https://doi.org/10.1038/s41467-024-46100-6）— CC BY 4.0。詳しくは同じノート
