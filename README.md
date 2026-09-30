@@ -30,6 +30,7 @@ Biomatter Lab（2026-10-01）のデモ用の Obsidian vault です。ORRERY（�
 - `10_Reference/Notes/` — digest-paper が作る読書ノートの保存先
 - `20_MDPapers/` — pdf-mistral が作る論文の Markdown と図
 - `CLAUDE.md` / `AGENTS.md` — AI エージェントがこの vault で守るルール（Claude Code は CLAUDE.md、Codex は AGENTS.md を読む。中身は同じ）
+- `LICENSE` — この vault のノート・テンプレート・スクリプトは MIT。同梱のプラグインと論文は除き、それぞれのライセンスに従う（`NOTICE.md`）
 - `NOTICE.md` — 同梱プラグインと論文のライセンス
 
 ## 外部に送られるもの
