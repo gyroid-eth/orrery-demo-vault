@@ -17,7 +17,7 @@
 - Omnisearch 1.28.0 — https://github.com/scambier/obsidian-omnisearch
 - Open in Terminal 0.4.0 — https://github.com/Feng6611
 - PDF++ 0.40.31 — https://github.com/RyotaUshio
-- PDF Mistral (Hi-Res) 1.1.1 — https://github.com/gyroid-eth/obsidian-pdf-mistral-hires（MIT。Mekann の pdf-mistral の fork。Release の main.js / manifest.json / styles.css を同梱。`data.json` の API キーは空）
+- PDF Mistral (Hi-Res) 1.1.1 — https://github.com/gyroid-eth/obsidian-pdf-mistral-hires（MIT。Mekann の pdf-mistral の fork。Release の main.js / manifest.json / styles.css と、高解像度で図を切り出すための pdf.js の worker `pdf.worker.min.js`（pdfjs-dist 3.11.174、Mozilla、Apache-2.0）を同梱。`data.json` の API キーは空）
 - Quick Explorer 0.2.14 — https://github.com/pjeby
 - QuickAdd 2.9.4 — https://bagerbach.com
 - Recent Files 1.7.6 — https://grosinger.net
