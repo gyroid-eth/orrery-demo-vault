@@ -1,0 +1,306 @@
+[
+ {
+  "file": "assets/a001.png",
+  "asset_id": "a001",
+  "figure": "Fig. 1",
+  "panels": "a",
+  "caption": "Figure 1 | Time course of Sox9 expression in S. canicula pectoral fin buds reveals the distal spot pattern.",
+  "text_refs": [
+   "Introduction para 1 (Fig. 1a)"
+  ],
+  "note_section": "主要な図 / Fig. 1",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a002.png",
+  "asset_id": "a002",
+  "figure": "Fig. 1",
+  "panels": "b (i-v)",
+  "caption": "Figure 1 | Time course of Sox9 expression in S. canicula pectoral fin buds reveals the distal spot pattern.",
+  "text_refs": [
+   "Results, 'The first periodic expression of Sox9 is a distal row of spots'"
+  ],
+  "note_section": "主要な図 / Fig. 1",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a003.png",
+  "asset_id": "a003",
+  "figure": "Fig. 2",
+  "panels": "a",
+  "caption": "Figure 2 | Out-of-phase expression patterns of Bmp and Wnt with Sox9.",
+  "text_refs": [
+   "Results, 'Out-of-phase patterns of Bmp and Wnt expression with Sox9'"
+  ],
+  "note_section": "主要な図 / Fig. 2",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a004.png",
+  "asset_id": "a004",
+  "figure": "Fig. 2",
+  "panels": "b",
+  "caption": "Figure 2 | Out-of-phase expression patterns of Bmp and Wnt with Sox9.",
+  "text_refs": [
+   "Results, 'Out-of-phase patterns...', Bmp4 sentence"
+  ],
+  "note_section": "主要な図 / Fig. 2",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a005.png",
+  "asset_id": "a005",
+  "figure": "Fig. 2",
+  "panels": "c",
+  "caption": "Figure 2 | Out-of-phase expression patterns of Bmp and Wnt with Sox9.",
+  "text_refs": [
+   "Results, 'Out-of-phase patterns...', Wnt5b sentence"
+  ],
+  "note_section": "主要な図 / Fig. 2",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a007.png",
+  "asset_id": "a007",
+  "figure": "Fig. 3",
+  "panels": "b",
+  "caption": "Figure 3 | Construction of a fin growth model.",
+  "text_refs": [
+   "Results, 'A dynamical model of S. canicula fin development'; Methods, 'In silico modelling'"
+  ],
+  "note_section": "主要な図 / Fig. 3",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a009.png",
+  "asset_id": "a009",
+  "figure": "Fig. 3",
+  "panels": "d",
+  "caption": "Figure 3 | Construction of a fin growth model.",
+  "text_refs": [
+   "Results, 'A dynamical model...'; Methods, 'Fate map analysis'"
+  ],
+  "note_section": "主要な図 / Fig. 3",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a010.png",
+  "asset_id": "a010",
+  "figure": "Fig. 4",
+  "panels": "a",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling of the spot-type Sox9 expressions', eqs 1-3"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a011.png",
+  "asset_id": "a011",
+  "figure": "Fig. 4",
+  "panels": "b",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling...', Hoxa13 paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a012.png",
+  "asset_id": "a012",
+  "figure": "Fig. 4",
+  "panels": "c (left, simulated Fgf)",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling...', Fgf paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a013.png",
+  "asset_id": "a013",
+  "figure": "Fig. 4",
+  "panels": "c (centre, Dusp6)",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling...', Fgf paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a014.png",
+  "asset_id": "a014",
+  "figure": "Fig. 4",
+  "panels": "c (right, k4-k7 Turing space)",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, Fgf paragraph; Methods eq 15"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a015.png",
+  "asset_id": "a015",
+  "figure": "Fig. 4",
+  "panels": "d",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling...', Fgf paragraph (compare Fig. 4d with Fig. 1b)"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a016.png",
+  "asset_id": "a016",
+  "figure": "Fig. 4",
+  "panels": "f",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, Fgf inhibition paragraph ('A clear prediction of the model...')"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a017.png",
+  "asset_id": "a017",
+  "figure": "Fig. 4",
+  "panels": "e (left, Bmp/Bmp4)",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling...', last sentences"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a018.png",
+  "asset_id": "a018",
+  "figure": "Fig. 4",
+  "panels": "e (right, Wnt/Wnt5b)",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, 'In silico modelling...', last sentences"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a019.png",
+  "asset_id": "a019",
+  "figure": "Fig. 4",
+  "panels": "g",
+  "caption": "Figure 4 | The in silico Turing model can reproduce the spot pattern of Sox9 expression.",
+  "text_refs": [
+   "Results, Fgf inhibition paragraph (SU5402)"
+  ],
+  "note_section": "主要な図 / Fig. 4",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a020.png",
+  "asset_id": "a020",
+  "figure": "Fig. 5",
+  "panels": "a-i",
+  "caption": "Figure 5 | The in silico model can predict phenotypes of in vivo perturbation.",
+  "text_refs": [
+   "Results, 'Experimental tests for in silico model predictions'"
+  ],
+  "note_section": "主要な図 / Fig. 5",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a021.png",
+  "asset_id": "a021",
+  "figure": "Fig. 6",
+  "panels": "a",
+  "caption": "Figure 6 | Comparison between fins and limbs.",
+  "text_refs": [
+   "Discussion, Fgf gradient paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 6",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a022.png",
+  "asset_id": "a022",
+  "figure": "Fig. 6",
+  "panels": "b (left, S. canicula)",
+  "caption": "Figure 6 | Comparison between fins and limbs.",
+  "text_refs": [
+   "Discussion, Fgf gradient paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 6",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a023.png",
+  "asset_id": "a023",
+  "figure": "Fig. 6",
+  "panels": "b (right, mouse)",
+  "caption": "Figure 6 | Comparison between fins and limbs.",
+  "text_refs": [
+   "Discussion, Fgf gradient paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 6",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a024.png",
+  "asset_id": "a024",
+  "figure": "Fig. 6",
+  "panels": "c (left, S. canicula)",
+  "caption": "Figure 6 | Comparison between fins and limbs.",
+  "text_refs": [
+   "Discussion, Fgf gradient paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 6",
+  "number_confirmed": true
+ },
+ {
+  "file": "assets/a025.png",
+  "asset_id": "a025",
+  "figure": "Fig. 6",
+  "panels": "c (right, mouse)",
+  "caption": "Figure 6 | Comparison between fins and limbs.",
+  "text_refs": [
+   "Discussion, Fgf gradient paragraph"
+  ],
+  "note_section": "主要な図 / Fig. 6",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ },
+ {
+  "file": "assets/a026.png",
+  "asset_id": "a026",
+  "figure": "Fig. 6",
+  "panels": "c (bottom, BSW network)",
+  "caption": "Figure 6 | Comparison between fins and limbs.",
+  "text_refs": [
+   "Fig. 6 caption, 'Bottom, the Turing network represented by this BSW model'"
+  ],
+  "note_section": "主要な図 / Fig. 6",
+  "number_confirmed": true,
+  "panel_basis": "panel letter not visible in image; assigned by caption content"
+ }
+]

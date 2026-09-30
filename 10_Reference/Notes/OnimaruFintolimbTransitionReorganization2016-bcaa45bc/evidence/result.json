@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "run_id": "The-fin-to-limb-transition-as-the-re-org-bcaa45bc-20260930T103709",
+  "published": "2026-09-30T10:47:11+09:00",
+  "review_status": "checked",
+  "source_check": "ocr-and-images",
+  "draft_digest": "ffe92069962f23da29d6c96ad8ee305907414100e3b399ff36af02c927d5a034",
+  "reviewed_digest": "ffe92069962f23da29d6c96ad8ee305907414100e3b399ff36af02c927d5a034",
+  "review_verdict": "approved",
+  "latest_review": "reviews/review-2.md",
+  "note_sha256": "42567075b452c1d2a19872d1860edb3c8d4999d995749d47c13304682f9154d3",
+  "source_sha256": "bcaa45bcbf2107a11392226c14dfc905e1340b324a1aa3b63f06a0a43e16e999",
+  "note_file": "=OnimaruFintolimbTransitionReorganization2016=.md"
+}
