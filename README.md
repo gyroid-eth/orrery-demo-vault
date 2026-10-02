@@ -18,6 +18,8 @@ Biomatter Lab（2026-10-01）のデモ用の Obsidian vault です。ORRERY（�
 1. このフォルダを丸ごとダウンロードして置く（Windows は `C:\Users\<あなた>\Documents\` の下など、Windows 側のフォルダ）
 2. Obsidian で「Open folder as vault」→ このフォルダを選ぶ
 3. 「コミュニティプラグインを有効にしますか」と聞かれたら「信頼する」を押す
+
+自分の既存の vault に中身を移して使うと、同梱の plugin は入りません。そのときは Kanban・Dataview・Templater・Calendar・Task Done At・QuickAdd・PDF Mistral (Hi-Res) を入れて有効にしてください（入れないと、タスクのノートが Kanban にならないなど）。この vault をそのまま開くのが一番確実です。
 4. `00_Inbox/はじめに.md` を開き、上から順に進める
 
 ## 中身
