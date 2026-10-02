@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "00_Inbox",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "openBehavior": "daily"
 }
