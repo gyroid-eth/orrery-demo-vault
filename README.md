@@ -4,7 +4,7 @@ tags: [claude]
 
 ## これは何
 
-ORRERY のデモ用の Obsidian vault です（英語版: [orrery-demo-vault-en](https://github.com/gyroid-eth/orrery-demo-vault-en)）。ORRERY（複数の AI エージェントを一つの画面で動かし、観測するツール）と、Obsidian の記録・タスク管理を組み合わせて、次を手元で試せます。
+ORRERY のデモ用の Obsidian vault です（英語版: [orrery-demo-vault-en](https://github.com/gyroid-eth/orrery-demo-vault-en)）。ORRERY（何十体もの AI エージェントを一つの画面で同時に動かし、観測するツール）と、Obsidian の記録・タスク管理を組み合わせて、次を手元で試せます。
 
 1. ORRERY を入れ、Claude Code と Codex にしりとりをさせて通信を確かめる
 2. 論文の PDF を pdf-mistral で Markdown と図にする
