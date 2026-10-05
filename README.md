@@ -4,7 +4,7 @@ tags: [claude]
 
 ## これは何
 
-Biomatter Lab（2026-10-01）のデモ用の Obsidian vault です。ORRERY（複数の AI エージェントを一つの画面で動かし、観測するツール）と、Obsidian の記録・タスク管理を組み合わせて、次を手元で試せます。
+ORRERY のデモ用の Obsidian vault です（英語版: [orrery-demo-vault-en](https://github.com/gyroid-eth/orrery-demo-vault-en)）。ORRERY（複数の AI エージェントを一つの画面で動かし、観測するツール）と、Obsidian の記録・タスク管理を組み合わせて、次を手元で試せます。
 
 1. ORRERY を入れ、Claude Code と Codex にしりとりをさせて通信を確かめる
 2. 論文の PDF を pdf-mistral で Markdown と図にする
@@ -15,12 +15,22 @@ Biomatter Lab（2026-10-01）のデモ用の Obsidian vault です。ORRERY（�
 
 ## 使い方
 
-1. このフォルダを丸ごとダウンロードして置く（Windows は `C:\Users\<あなた>\Documents\` の下など、Windows 側のフォルダ）
-2. Obsidian で「Open folder as vault」→ このフォルダを選ぶ
-3. 「コミュニティプラグインを有効にしますか」と聞かれたら「信頼する」を押す
+次の順に進めます。Windows 11 では、ORRERY は WSL2 の Ubuntu の中で、Obsidian は Windows 側で動きます。各段にどちらかを書いています。
+
+1. **Obsidian を入れる**: [0. Obsidian（一緒に使う場合）](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#0-obsidian一緒に使う場合)（すでに入っていれば飛ばす）
+2. **ORRERY を入れる**: [Mac](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#mac) か [Windows 11](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#windows-11) を、その節の最後まで（Claude Code か Codex も入る）。節の末尾に「Obsidian と一緒に使う」への案内が出ますが、そちらには進まず、この README の 3 に戻ります（3 は、この vault のための同じ手順です）
+3. **研究セットを入れる**: 1 行です（Windows は Ubuntu の窓で）。digest-paper を入れ、**この vault を Documents に置き**、これ以降に起動する agent の作業 folder にします（[Obsidian と一緒に使う](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#obsidian-と一緒に使う)）。
+
+   ```bash
+   curl -fsSL https://raw.githubusercontent.com/gyroid-eth/orrery/master/scripts/research-set.sh | bash
+   ```
+
+4. **Obsidian で vault を開く**: 「Open folder as vault」→ Documents にできた vault（Mac は `~/Documents/orrery-demo-vault`、Windows は Windows 側の「ドキュメント」。3 の最後に Windows の形で表示されます）。「コミュニティプラグインを有効にしますか」と聞かれたら「Trust author and enable plugins」を押す
+5. vault の **`00_Inbox/はじめに.md`** を開き、上から順に進める
+
+**研究セットを使わないとき**: このフォルダを丸ごとダウンロードして置き（Windows は `C:\Users\<あなた>\Documents\` の下など、Windows 側のフォルダ）、4 に進みます。この場合、agent は vault で起動したときだけ vault の中で動きます（「はじめに」の 2 を見てください）。
 
 自分の既存の vault に中身を移して使うと、同梱の plugin と設定は入りません（タスクのノートが Kanban にならない、など）。この vault をそのまま開くのが一番確実です。移すときの手順（コミュニティプラグインに無い Task Done At・PDF Mistral (Hi-Res) のコピーと、Templater・Daily notes の設定）は `00_Inbox/はじめに.md` の 0 にあります。
-4. `00_Inbox/はじめに.md` を開き、上から順に進める
 
 ## 中身
 
