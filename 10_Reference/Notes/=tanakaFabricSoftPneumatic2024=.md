@@ -1,6 +1,7 @@
 ---
 tags: [claude]
 lit-level: 3
+citekey: tanakaFabricSoftPneumatic2024
 title: "Fabric soft pneumatic actuators with programmable Turing pattern textures"
 authors: "Masato Tanaka, Yuyang Song, Tsuyoshi Nomura"
 year: 2024
@@ -8,8 +9,6 @@ doi: "10.1038/s41598-024-69450-z"
 url: "https://doi.org/10.1038/s41598-024-69450-z"
 journal: "Scientific Reports 14:19175"
 language: ja
-source: "20_MDPapers/Tanaka et al. 2024 - Fabric soft pneumatic actuators with programmable turing pattern textures.md"
-publish: false
 ---
 
 - mdpaper: [[20_MDPapers/Tanaka et al. 2024 - Fabric soft pneumatic actuators with programmable turing pattern textures]]

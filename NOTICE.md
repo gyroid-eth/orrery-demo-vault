@@ -32,7 +32,7 @@ Task Done At は Biomatter Lab 自作（起動時キャッシュ・ローカル�
 
 - Onimaru et al. 2016, *Nature Communications* 7, 11582（https://doi.org/10.1038/ncomms11582）— CC BY 4.0。詳しくは `10_Reference/Papers/論文の出典とライセンス.md`
 - Guo et al. 2024, *Nature Communications* 15, 1694（https://doi.org/10.1038/s41467-024-46100-6）— CC BY 4.0。詳しくは同じノート
-- Tanaka et al. 2024, *Scientific Reports* 14, 19175（https://doi.org/10.1038/s41598-024-69450-z）— CC BY 4.0。Markdown への変換と図の抽出をした版（`20_MDPapers/`）と、読書ノートの見本（`10_Reference/Notes/`）を同梱
+- Tanaka et al. 2024, *Scientific Reports* 14, 19175（https://doi.org/10.1038/s41598-024-69450-z）— CC BY 4.0。Markdown への変換と図の抽出をした版（`20_MDPapers/`）と、読書ノートの例（`10_Reference/Notes/`）を同梱
 - Inoue and Kondo 2016, *Scientific Reports* 6, 33689（https://doi.org/10.1038/srep33689）— CC BY 4.0。Markdown への変換と図の抽出をした版（`20_MDPapers/`）を同梱
 - Imada et al. 2025, *Extreme Mechanics Letters* 77, 102337（https://doi.org/10.1016/j.eml.2025.102337）— CC BY 4.0。同上
 - Nojoomi et al. 2018, *Nature Communications* 9, 3705（https://doi.org/10.1038/s41467-018-05569-8）— CC BY 4.0。同上
