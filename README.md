@@ -18,7 +18,7 @@ ORRERY のデモ用の Obsidian vault です（英語版: [orrery-demo-vault-en]
 次の順に進めます。Windows 11 では、ORRERY は WSL2 の Ubuntu の中で、Obsidian は Windows 側で動きます。各段にどちらかを書いています。
 
 1. **Obsidian を入れる**: [0. Obsidian（一緒に使う場合）](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#0-obsidian一緒に使う場合)（すでに入っていれば飛ばす）
-2. **ORRERY を入れる**: [Mac](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#mac) か [Windows 11](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#windows-11)（Claude Code も入る）
+2. **ORRERY を入れる**: [Mac](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#mac) か [Windows 11](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#windows-11) を、その節の最後まで（Claude Code か Codex も入る）。節の末尾に「Obsidian と一緒に使う」への案内が出ますが、そちらには進まず、この README の 3 に戻ります（3 は、この vault のための同じ手順です）
 3. **研究セットを入れる**: 1 行です（Windows は Ubuntu の窓で）。digest-paper を入れ、**この vault を Documents に置き**、これ以降に起動する agent の作業 folder にします（[Obsidian と一緒に使う](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#obsidian-と一緒に使う)）。
 
    ```bash
