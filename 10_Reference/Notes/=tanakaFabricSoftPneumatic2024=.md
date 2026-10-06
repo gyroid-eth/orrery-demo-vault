@@ -12,6 +12,7 @@ language: ja
 ---
 
 - mdpaper: [[20_MDPapers/Tanaka et al. 2024 - Fabric soft pneumatic actuators with programmable turing pattern textures]]
+- pdf: [[10_Reference/Papers/Tanaka et al. 2024 - Fabric soft pneumatic actuators with programmable turing pattern textures.pdf]]
 
 > [!summary] このノートの結論
 > 膨らむと曲がる・ねじれる布製の空気圧アクチュエータ（FSPA）を、材料配向の最適化と異方的な反応拡散方程式で自動設計し、布で作った論文である。設計手順は前報 Tanaka et al. 2023 と同じで、新しいのは製作法だ。硬い布 Dyneema を切り抜いて TPU に熱圧着する方法と、Kevlar 糸を刺繍する方法の2つを試した。C 字曲げ・S 字曲げ・ねじれの3形状で、試作品と有限要素解析の圧力応答がよく一致したと報告している。
