@@ -25,6 +25,8 @@ ORRERY のデモ用の Obsidian vault です（英語版: [orrery-demo-vault-en]
    curl -fsSL https://raw.githubusercontent.com/gyroid-eth/orrery/master/scripts/research-set.sh | bash
    ```
 
+   Codex を使う人は、このあとに [Codex の plugin を入れる](https://github.com/gyroid-eth/orrery/blob/master/docs/install.md#codex-の-plugin-を入れるcodex-を使う人)を行います。
+
 4. **Obsidian で vault を開く**: 「Open folder as vault」→ Documents にできた vault（Mac は `~/Documents/orrery-demo-vault`、Windows は Windows 側の「ドキュメント」。3 の最後に Windows の形で表示されます）。「コミュニティプラグインを有効にしますか」と聞かれたら「Trust author and enable plugins」を押す
 5. vault の **`00_Inbox/はじめに.md`** を開き、上から順に進める
 
