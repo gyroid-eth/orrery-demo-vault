@@ -8,12 +8,8 @@
 - Highlightr 1.2.2 — https://github.com/chetachiezikeuzor
 - Image Converter 1.4.6 — https://github.com/xryul
 - Metadata Menu 0.8.12 — https://github.com/mdelobelle
-- Charts 3.9.0 — https://github.com/phibr0
-- Excalidraw 2.19.2 — https://excalidraw-obsidian.online
-- Iconize 2.14.7 — https://florianwoelki.com/
 - Kanban 2.0.51 — https://github.com/mgmeyers/obsidian-kanban
 - Meta Bind 1.4.6 — https://www.moritzjung.dev/
-- Tracker 1.17.0 — pyrochlore
 - Omnisearch 1.28.0 — https://github.com/scambier/obsidian-omnisearch
 - Open in Terminal 0.4.0 — https://github.com/Feng6611
 - PDF++ 0.40.31 — https://github.com/RyotaUshio
@@ -23,7 +19,6 @@
 - Recent Files 1.7.6 — https://grosinger.net
 - Task Done At 1.5.0 — Claude Code
 - Templater 2.17.1 — https://github.com/SilentVoid13
-- Terminal 3.21.0 — https://github.com/polyipseity
 - Text Extractor 0.7.0 — https://github.com/scambier/obsidian-text-extractor
 
 Task Done At は Biomatter Lab 自作（起動時キャッシュ・ローカル日付・Dataview 即時更新のパッチ入り）。
