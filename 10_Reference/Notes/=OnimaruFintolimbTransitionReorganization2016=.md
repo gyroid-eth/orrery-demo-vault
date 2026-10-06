@@ -4,7 +4,7 @@ title: "The fin-to-limb transition as the re-organization of a Turing pattern"
 authors: "Koh Onimaru, Luciano Marcon, Marco Musy, Mikiko Tanaka, James Sharpe"
 year: 2016
 doi: "10.1038/ncomms11582"
-source: "/mnt/c/orrery-demo-vault/20_MDPapers/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern.md"
+source: "20_MDPapers/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern.md"
 language: ja
 review_status: checked
 source_check: ocr-and-images
@@ -13,6 +13,9 @@ reviewer: MintEinstein
 run_id: The-fin-to-limb-transition-as-the-re-org-bcaa45bc-20260930T103709
 publish: false
 ---
+
+- mdpaper: [[20_MDPapers/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern]]
+- pdf: [[10_Reference/Papers/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern.pdf]]
 
 > [!summary] 結論 / Bottom line
 > トラザメ（*Scyliorhinus canicula*）胸びれの遠位の結節状要素は、マウス指の縞とは違い、Sox9 の「一列の斑点」として現れる。著者らは、マウス指形成で提案された Bmp–Sox9–Wnt（BSW）チューリングネットワークに Fgf 勾配による空間的変調を加えたモデルで、この斑点パターンと Bmp・Wnt 阻害の表現型を定性的に再現できることを示し、ひれ・四肢の遠位骨格の多様性は「深く保存されたチューリング機構の空間的再編成」から生じた可能性を**示唆**している。直接の因果証明ではなく、モデル予測と阻害実験の一致に基づく主張であり、近位の縞状要素の形成機構は未解決。
@@ -54,9 +57,9 @@ publish: false
 
 ### Fig. 1 — トラザメ胸びれにおける Sox9 の時系列
 
-![Fig. 1a](assets/a001.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-0.png|700]]
 
-![Fig. 1b](assets/a002.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-1.png|700]]
 
 - 何を示すか: (a) トラザメ、化石ひれ（*Sauripterus*, *Panderichthys*）、マウス前肢の骨格模式図。赤が遠位要素で、図中の凡例は「Distal elements (not homologous)」。系統樹の線付き。(b) 上段は Sox9 の OPT 像 5 枚（i–v, 時間順）、下段は各時点の Sox9 が将来の骨格のどこに当たるかを赤で示した模式図。
 - パネルと主張の対応: b-ii の括弧が後方遠位の初期発現、b-iii の白矢頭が弧状の斑点列、b-iv・v の矢頭が後方で斑点へ分かれた部分。
@@ -64,11 +67,11 @@ publish: false
 
 ### Fig. 2 — Bmp・Wnt は Sox9 と逆位相
 
-![Fig. 2a](assets/a003.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-2.png|700]]
 
-![Fig. 2b](assets/a004.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-3.png|700]]
 
-![Fig. 2c](assets/a005.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-4.png|700]]
 
 - 何を示すか: (a) マウス指形成の BSW ネットワーク（Bmp→Sox9 促進、Sox9⊣Bmp、Wnt⊣Sox9、Sox9⊣Wnt、Bmp と Wnt の自己抑制）と、Bmp（緑）・Sox9（赤）・Wnt（水色）の分布模式図。(b) Sox9 と Bmp4、(c) Sox9 と Wnt5b の OPT 像。上段が全体、中段が拡大（矢頭が Sox9 斑点と対応する Bmp4/Wnt5b の隙間）、下段が垂直な仮想切片。
 - パネルと主張の対応: b・c の中段の矢頭列が「逆位相（相補的）」の根拠。b 下段は Sox9 斑点と Bmp4 の隙間がどちらも芽の中央にあること（マウスと同じ）を示す。
@@ -76,9 +79,9 @@ publish: false
 
 ### Fig. 3 — ひれ成長モデルの構築（一部パネル）
 
-![Fig. 3b](assets/a007.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-6.png|700]]
 
-![Fig. 3d](assets/a009.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-8.png|700]]
 
 - 何を示すか: (b) 成長モデルの各時点のひれ形状を細かい三角形メッシュで離散化した図（右に拡大図）。(d) 墨汁による実際の運命地図の写真 2 枚（左は破線でひれ輪郭、右は楕円で標識組織の広がりを囲む）。
 - パネルと主張の対応: (d) の実測と仮想運命地図（Fig. 3c、本ノートでは未掲載）を比べて成長マップを決めた。前後軸の非対称成長（後方がより拡大）は Supplementary Fig. 4b–e が根拠で、この 2 枚からは読み取れない。
@@ -86,25 +89,25 @@ publish: false
 
 ### Fig. 4 — Fgf で変調したチューリングモデルが Sox9 斑点を再現
 
-![Fig. 4a](assets/a010.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-9.png|700]]
 
-![Fig. 4b](assets/a011.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-10.png|700]]
 
-![Fig. 4c 左: シミュレートした Fgf 勾配](assets/a012.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-11.png|700]]
 
-![Fig. 4c 中: Dusp6](assets/a013.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-12.png|700]]
 
-![Fig. 4c 右: k4–k7 パラメータ空間](assets/a014.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-13.png|700]]
 
-![Fig. 4d](assets/a015.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-14.png|700]]
 
-![Fig. 4e 左: Bmp](assets/a017.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-16.png|700]]
 
-![Fig. 4e 右: Wnt](assets/a018.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-17.png|700]]
 
-![Fig. 4f](assets/a016.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-15.png|700]]
 
-![Fig. 4g](assets/a019.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-18.png|700]]
 
 - 何を示すか:
   - (a) パラメータ付きネットワーク（k2: Bmp→Sox9、k3: Wnt⊣Sox9、k4: Sox9⊣Bmp、k7: Sox9⊣Wnt、k5・k9: 自己項）。
@@ -119,7 +122,7 @@ publish: false
 
 ### Fig. 5 — モデルが in vivo の摂動表現型を予測する
 
-![Fig. 5](assets/a020.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-19.png|700]]
 
 - 何を示すか: 行が対照 / Bmp 阻害 / Wnt 阻害、列が in silico（a–c）、in vivo Sox9（d–f）、Alcian Blue 軟骨染色（g–i）。e と f は「Mild」「Severe」の 2 例を並べる。
 - パネルと主張の対応: b（k2 −20%）で斑点が減り小さい ↔ e で Sox9 斑点の消失 ↔ h で後方要素の消失と小さな結節（矢頭）。c（αW −50%）で斑点が融合 ↔ f で連続した Sox9 ↔ i で連続した要素（括弧）と大きな結節（矢頭）。
@@ -127,17 +130,17 @@ publish: false
 
 ### Fig. 6 — ひれと四肢の比較（Fgf の役割の違い）
 
-![Fig. 6a](assets/a021.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-20.png|700]]
 
-![Fig. 6b 左: トラザメ](assets/a022.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-21.png|700]]
 
-![Fig. 6b 右: マウス](assets/a023.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-22.png|700]]
 
-![Fig. 6c 左: トラザメ](assets/a024.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-23.png|700]]
 
-![Fig. 6c 右: マウス](assets/a025.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-24.png|700]]
 
-![Fig. 6c 下: BSW ネットワーク](assets/a026.png)
+![[20_MDPapers/pdf-mistral-images/Onimaru et al. 2016 - The fin-to-limb transition as the re-organization of a Turing pattern_img-25.png|700]]
 
 - 何を示すか: (a) トラザメ胸びれ（stage 30）とマウス指（E12）の Sox9。(b) Sox9（黒）と近遠位の位置情報（赤→青の勾配）の模式図。トラザメは縁に平行な斑点列、マウスは縁に垂直な縞で、遠位側の波長が大きい（括弧）。(c) 位置信号（PS）と位置のグラフ。トラザメでは th1–th2 の間だけで斑点ができ、マウスでは勾配全体で縞ができて Fgf レベルが局所の波長を変える（近位は短波長、遠位は長波長）。
 - パネルと主張の対応: 「Fgf の役割が、トラザメでは斑点列の位置決め、マウスでは縞の向きと波長の制御」という提案（Discussion）の図解。モデルの提案であり、直接の実験証拠ではない。

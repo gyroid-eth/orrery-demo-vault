@@ -40,8 +40,8 @@ ORRERY のデモ用の Obsidian vault です（英語版: [orrery-demo-vault-en]
 - `01_Planning/タスク.md` — Kanban のタスク板。チェックすると完了時刻が付き、完了の列へ移る。カードはコマンドパレットの「タスク追加」（`30_Templates/Scripts/addTaskQA.js`）か、agent の `/addtodo`・`/adddone` でも足せる
 - `02_DailyNotes/` — 日々の記録。テンプレートは `30_Templates/Daily Note.md`（未完了のタスク／今日完了したタスク／今日の作業ログ／今日作った・編集したノートが自動で並ぶ）
 - `05_Agents/` — AI と作業したときのログ（`LOG_YYYY-MM-DDTHHmm タイトル.md`）。`/log` で作る
-- `10_Reference/Papers/` — 試しに使える論文（CC BY 4.0）と、その出典・ライセンスの表（同封の変換済みの論文も載せている）
-- `10_Reference/Notes/` — digest-paper が作る読書ノートの保存先。見本として Onimaru et al. 2016 のノートが、読書ノートの例として Tanaka et al. 2024 のノート（`=tanakaFabricSoftPneumatic2024=.md`）が入っている
+- `10_Reference/Papers/` — 同封の論文 7 本（CC BY 4.0）の PDF と、その出典・ライセンスの表
+- `10_Reference/Notes/` — digest-paper が作る読書ノートの保存先。見本として Onimaru et al. 2016 のノート（`=OnimaruFintolimbTransitionReorganization2016=.md`）が、読書ノートの例として Tanaka et al. 2024 のノート（`=tanakaFabricSoftPneumatic2024=.md`）が入っている
 - `20_MDPapers/` — pdf-mistral が作る論文の Markdown と図。変換済みの 6 本（Onimaru et al. 2016・Tanaka et al. 2024・Inoue and Kondo 2016・Imada et al. 2025・Nojoomi et al. 2018・Seelinger et al. 2024。CC BY 4.0）を同封している
 - `CLAUDE.md` / `AGENTS.md` — AI エージェントがこの vault で守るルール（Claude Code は CLAUDE.md、Codex は AGENTS.md を読む。中身は同じ）
 - `LICENSE` — この vault のノート・テンプレート・スクリプトは MIT。同梱のプラグインと論文は除き、それぞれのライセンスに従う（`NOTICE.md`）
