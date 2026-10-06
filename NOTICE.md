@@ -3,6 +3,7 @@
 - Calendar 1.5.10 — https://github.com/liamcain/
 - Dataview 0.5.68 — https://github.com/blacksmithgu
 - Kanban 2.0.51 — https://github.com/mgmeyers/obsidian-kanban
+- Omnisearch 1.28.0 — https://github.com/scambier/obsidian-omnisearch
 - PDF Mistral (Hi-Res) 1.1.1 — https://github.com/gyroid-eth/obsidian-pdf-mistral-hires（MIT。Mekann の pdf-mistral の fork。Release の main.js / manifest.json / styles.css と、高解像度で図を切り出すための pdf.js の worker `pdf.worker.min.js`（pdfjs-dist 3.11.174、Mozilla、Apache-2.0）を同梱。`data.json` の API キーは空）
 - QuickAdd 2.9.4 — https://bagerbach.com
 - Task Done At 1.5.0 — Claude Code
